@@ -18,9 +18,9 @@ var ranks = {
     'JVermunt': 'Senior'
 };
 var lockedAccounts = {
-    'VBurden': 'FALSE',
+    'VBurden': 'TRUE',
     'TGreen': 'TRUE',
-    'DKennedy': 'FALSE',
+    'DKennedy': 'TRUE',
     'OVermunt': 'FALSE',
     'LKane': 'TRUE',
     'POcallaghan': 'TRUE',
